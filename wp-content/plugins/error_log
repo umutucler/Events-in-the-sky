@@ -1,0 +1,1 @@
+[07-Oct-2017 01:33:12 Europe/Copenhagen] PHP Fatal error:  Call to undefined function add_action() in /home/pierrepa/dinnerinthesky.dk/wp-content/plugins/hello.php on line 60
