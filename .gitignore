@@ -17,3 +17,4 @@ wp-config.php
 /sitemap.xml
 /sitemap.xml.gz
 
+.DS_Store
